@@ -58,3 +58,4 @@ https://docs.python.org/ko/3/
 [파이썬 공식문서](https://docs.python.org/ko/3/, "파이썬 공식 문서입니다.")
 
 # 이미지 삽입
+![이것은 이미지 안 떴을때 나오는 대체 텍스트입니다.](github_cat.png)
